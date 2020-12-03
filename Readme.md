@@ -18,29 +18,29 @@ python main.py
 
 The player can change color based on the state they are currently in.
 
-*PURPLE*: means the player is wearing a mask
+**PURPLE**: means the player is wearing a mask
 
-*AQUA*: means the player has a sanitizer and can kill covidia
+**AQUA**: means the player has a sanitizer and can kill covidia
 
-*GREEN*: means the player is quarantined
+**GREEN**: means the player is quarantined
 
-_Please note: When player catches covidia, the player is quarantined and loses immunity towards covidia (which equates to life)_
+_**Please note**: When player catches covidia, the player is quarantined and loses immunity towards covidia (which equates to life)_
 
 The enemy can also change color based of the state they are currently in:
 
-*WHITE*: means the enemy is scared
+**WHITE**: means the enemy is scared
 
-*SHADES OF GREEN*: means the enemy can roam freely
+**SHADES OF GREEN**: means the enemy can roam freely
 
-*DARK BLUE*: means enemy has been sanitized
+**DARK BLUE**: means enemy has been sanitized
 
-_Please note: One of the enemy is set to chase the player and all the rest roam randomly._
+_**Please note**: One of the enemy is set to chase the player and all the rest roam randomly._
 
 ## Group Members
 
 1. Murphy Facey
 2. Tasi-Ann Mighty
-3. Anastassia 
+3. AnastassiaA
 
 ## Contribution
 
