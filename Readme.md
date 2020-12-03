@@ -28,6 +28,12 @@ The enemy can also change color based of the state they are currently in:
 *DARK BLUE*: means enemy has been sanitized
 _Please note: One of the enemy is set to chase the player and all the rest roam randomly._
 
+## Group Members
+
+1. Murphy Facey
+2. Tasi-Ann Mighty
+3. Anastassia 
+
 ## Contribution
 
 This source code for the game is based of [a-plus-coding's pacman game](https://github.com/a-plus-coding/pacman-with-python)
