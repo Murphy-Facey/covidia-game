@@ -94,7 +94,7 @@ class Player:
         elif self.quarantine_check:
             color = PLAYER_QUARANTINE_TIME
 
-        pygame.draw.circle(self.app.screen, PLAYER_COLOUR, (int(
+        pygame.draw.circle(self.app.screen, color, (int(
             self.pix_pos.x), int(self.pix_pos.y)), self.app.cell_width//2-2)
         
         # Drawing player lives
