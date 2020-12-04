@@ -39,8 +39,8 @@ _**Please note**: One of the enemy is set to chase the player and all the rest r
 ## Group Members
 
 1. Murphy Facey
-2. Tasi-Ann Mighty
-3. AnastassiaA
+2. Tasi-Anna Mighty
+3. Anastassia Anderson
 
 ## Contribution
 
